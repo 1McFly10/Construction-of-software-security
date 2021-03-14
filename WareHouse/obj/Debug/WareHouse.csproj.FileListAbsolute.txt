@@ -1,0 +1,40 @@
+C:\Users\Vitalik\Desktop\6 + отчёты\WareHouse\WareHouse\bin\Debug\NLog.config
+C:\Users\Vitalik\Desktop\6 + отчёты\WareHouse\WareHouse\bin\Debug\WareHouse.exe.config
+C:\Users\Vitalik\Desktop\6 + отчёты\WareHouse\WareHouse\bin\Debug\WareHouse.exe
+C:\Users\Vitalik\Desktop\6 + отчёты\WareHouse\WareHouse\bin\Debug\WareHouse.pdb
+C:\Users\Vitalik\Desktop\6 + отчёты\WareHouse\WareHouse\bin\Debug\uk\WareHouse.resources.dll
+C:\Users\Vitalik\Desktop\6 + отчёты\WareHouse\WareHouse\bin\Debug\EntityFramework.dll
+C:\Users\Vitalik\Desktop\6 + отчёты\WareHouse\WareHouse\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vitalik\Desktop\6 + отчёты\WareHouse\WareHouse\bin\Debug\NLog.dll
+C:\Users\Vitalik\Desktop\6 + отчёты\WareHouse\WareHouse\bin\Debug\EntityFramework.xml
+C:\Users\Vitalik\Desktop\6 + отчёты\WareHouse\WareHouse\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vitalik\Desktop\6 + отчёты\WareHouse\WareHouse\bin\Debug\NLog.xml
+C:\Users\Vitalik\Desktop\6 + отчёты\WareHouse\WareHouse\obj\Debug\WareHouse.csprojAssemblyReference.cache
+C:\Users\Vitalik\Desktop\6 + отчёты\WareHouse\WareHouse\obj\Debug\WareHouse.Resource.resources
+C:\Users\Vitalik\Desktop\6 + отчёты\WareHouse\WareHouse\obj\Debug\WareHouse.Resource.uk.resources
+C:\Users\Vitalik\Desktop\6 + отчёты\WareHouse\WareHouse\obj\Debug\WareHouse.csproj.GenerateResource.cache
+C:\Users\Vitalik\Desktop\6 + отчёты\WareHouse\WareHouse\obj\Debug\WareHouse.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\Desktop\6 + отчёты\WareHouse\WareHouse\obj\Debug\uk\WareHouse.resources.dll
+C:\Users\Vitalik\Desktop\6 + отчёты\WareHouse\WareHouse\obj\Debug\WareHouse.csproj.CopyComplete
+C:\Users\Vitalik\Desktop\6 + отчёты\WareHouse\WareHouse\obj\Debug\WareHouse.exe
+C:\Users\Vitalik\Desktop\6 + отчёты\WareHouse\WareHouse\obj\Debug\WareHouse.pdb
+C:\Users\Vitalik\Desktop\6 + отчёты (ver 2.0)\WareHouse\WareHouse\bin\Debug\NLog.config
+C:\Users\Vitalik\Desktop\6 + отчёты (ver 2.0)\WareHouse\WareHouse\bin\Debug\WareHouse.exe.config
+C:\Users\Vitalik\Desktop\6 + отчёты (ver 2.0)\WareHouse\WareHouse\bin\Debug\WareHouse.exe
+C:\Users\Vitalik\Desktop\6 + отчёты (ver 2.0)\WareHouse\WareHouse\bin\Debug\WareHouse.pdb
+C:\Users\Vitalik\Desktop\6 + отчёты (ver 2.0)\WareHouse\WareHouse\bin\Debug\uk\WareHouse.resources.dll
+C:\Users\Vitalik\Desktop\6 + отчёты (ver 2.0)\WareHouse\WareHouse\bin\Debug\EntityFramework.dll
+C:\Users\Vitalik\Desktop\6 + отчёты (ver 2.0)\WareHouse\WareHouse\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vitalik\Desktop\6 + отчёты (ver 2.0)\WareHouse\WareHouse\bin\Debug\NLog.dll
+C:\Users\Vitalik\Desktop\6 + отчёты (ver 2.0)\WareHouse\WareHouse\bin\Debug\EntityFramework.xml
+C:\Users\Vitalik\Desktop\6 + отчёты (ver 2.0)\WareHouse\WareHouse\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vitalik\Desktop\6 + отчёты (ver 2.0)\WareHouse\WareHouse\bin\Debug\NLog.xml
+C:\Users\Vitalik\Desktop\6 + отчёты (ver 2.0)\WareHouse\WareHouse\obj\Debug\WareHouse.csprojAssemblyReference.cache
+C:\Users\Vitalik\Desktop\6 + отчёты (ver 2.0)\WareHouse\WareHouse\obj\Debug\WareHouse.Resource.resources
+C:\Users\Vitalik\Desktop\6 + отчёты (ver 2.0)\WareHouse\WareHouse\obj\Debug\WareHouse.Resource.uk.resources
+C:\Users\Vitalik\Desktop\6 + отчёты (ver 2.0)\WareHouse\WareHouse\obj\Debug\WareHouse.csproj.GenerateResource.cache
+C:\Users\Vitalik\Desktop\6 + отчёты (ver 2.0)\WareHouse\WareHouse\obj\Debug\WareHouse.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\Desktop\6 + отчёты (ver 2.0)\WareHouse\WareHouse\obj\Debug\uk\WareHouse.resources.dll
+C:\Users\Vitalik\Desktop\6 + отчёты (ver 2.0)\WareHouse\WareHouse\obj\Debug\WareHouse.csproj.CopyComplete
+C:\Users\Vitalik\Desktop\6 + отчёты (ver 2.0)\WareHouse\WareHouse\obj\Debug\WareHouse.exe
+C:\Users\Vitalik\Desktop\6 + отчёты (ver 2.0)\WareHouse\WareHouse\obj\Debug\WareHouse.pdb

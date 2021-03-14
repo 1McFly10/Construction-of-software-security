@@ -1,0 +1,51 @@
+2021-03-12 20:49:02.5262 ERROR One or more validation errors were detected during model generation:
+
+WareHouse.Bread: : EntityType 'Bread' has no key defined. Define the key for this EntityType.
+WareHouse.Milk: : EntityType 'Milk' has no key defined. Define the key for this EntityType.
+WareHouse.Water: : EntityType 'Water' has no key defined. Define the key for this EntityType.
+Breads: EntityType: EntitySet 'Breads' is based on type 'Bread' that has no keys defined.
+Milks: EntityType: EntitySet 'Milks' is based on type 'Milk' that has no keys defined.
+Waters: EntityType: EntitySet 'Waters' is based on type 'Water' that has no keys defined.
+
+2021-03-12 20:49:02.5668 ERROR One or more validation errors were detected during model generation:
+
+WareHouse.Bread: : EntityType 'Bread' has no key defined. Define the key for this EntityType.
+WareHouse.Milk: : EntityType 'Milk' has no key defined. Define the key for this EntityType.
+WareHouse.Water: : EntityType 'Water' has no key defined. Define the key for this EntityType.
+Breads: EntityType: EntitySet 'Breads' is based on type 'Bread' that has no keys defined.
+Milks: EntityType: EntitySet 'Milks' is based on type 'Milk' that has no keys defined.
+Waters: EntityType: EntitySet 'Waters' is based on type 'Water' that has no keys defined.
+
+2021-03-12 20:49:02.5668 ERROR One or more validation errors were detected during model generation:
+
+WareHouse.Bread: : EntityType 'Bread' has no key defined. Define the key for this EntityType.
+WareHouse.Milk: : EntityType 'Milk' has no key defined. Define the key for this EntityType.
+WareHouse.Water: : EntityType 'Water' has no key defined. Define the key for this EntityType.
+Breads: EntityType: EntitySet 'Breads' is based on type 'Bread' that has no keys defined.
+Milks: EntityType: EntitySet 'Milks' is based on type 'Milk' that has no keys defined.
+Waters: EntityType: EntitySet 'Waters' is based on type 'Water' that has no keys defined.
+
+2021-03-12 20:49:02.5915 ERROR One or more validation errors were detected during model generation:
+
+WareHouse.Bread: : EntityType 'Bread' has no key defined. Define the key for this EntityType.
+WareHouse.Milk: : EntityType 'Milk' has no key defined. Define the key for this EntityType.
+WareHouse.Water: : EntityType 'Water' has no key defined. Define the key for this EntityType.
+Breads: EntityType: EntitySet 'Breads' is based on type 'Bread' that has no keys defined.
+Milks: EntityType: EntitySet 'Milks' is based on type 'Milk' that has no keys defined.
+Waters: EntityType: EntitySet 'Waters' is based on type 'Water' that has no keys defined.
+
+2021-03-12 20:49:02.6023 ERROR One or more validation errors were detected during model generation:
+
+WareHouse.Bread: : EntityType 'Bread' has no key defined. Define the key for this EntityType.
+WareHouse.Milk: : EntityType 'Milk' has no key defined. Define the key for this EntityType.
+WareHouse.Water: : EntityType 'Water' has no key defined. Define the key for this EntityType.
+Breads: EntityType: EntitySet 'Breads' is based on type 'Bread' that has no keys defined.
+Milks: EntityType: EntitySet 'Milks' is based on type 'Milk' that has no keys defined.
+Waters: EntityType: EntitySet 'Waters' is based on type 'Water' that has no keys defined.
+
+2021-03-12 22:32:49.1877 ERROR The model backing the 'ProductContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+2021-03-12 22:32:49.2809 ERROR The model backing the 'ProductContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+2021-03-12 22:32:49.3077 ERROR The model backing the 'ProductContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+2021-03-12 22:32:49.3414 ERROR The model backing the 'ProductContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+2021-03-12 22:32:49.3627 ERROR The model backing the 'ProductContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
+2021-03-12 22:32:49.3846 ERROR The model backing the 'ProductContext' context has changed since the database was created. Consider using Code First Migrations to update the database (http://go.microsoft.com/fwlink/?LinkId=238269).
